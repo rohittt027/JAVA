@@ -60,7 +60,7 @@
 // public class RelationalOperators {
 //     public static void main(String[] args) {
         
-        // GREATER THAN EQUAL TO & LESS THAN EQUAL TO (<= , =>)
+        // GREATER THAN EQUAL TO & LESS THAN EQUAL TO (>= , <=)
 
             // int A = 10;
             // int B = 10;
