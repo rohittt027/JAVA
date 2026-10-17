@@ -1,24 +1,25 @@
-// // public class IfElse {
-// //     public static void main(String [] args){
-// //         int age = 16;
+// public class IfElse {
+//     public static void main(String [] args){
+//         int age = 16;
 
-// //         if(age >= 18) {
-// //             System.out.println("adult: vote & drive");
-// //         }
+//         if(age >= 18) {
+//             System.out.println("adult: vote & drive");
+//         }
 
-// //         if(age > 13 && age < 18) {
-// //             System.out.println("teenager");
-// //         }
+//         if(age > 13 && age < 18) {
+//             System.out.println("teenager");
+//         }
 
-// //         else{
-// //             System.out.println("not Adult");
-// //         }
-// //     }
-    
-// // }
+//         else{
+//             System.out.println("not Adult");
+
+//         }
+
+//     }
+// }
 
 
-// // -------------------------------------------------------------------------------------------------------
+// -------------------------------------------------------------------------------------------------------
 
 // import java.util.Scanner;
 
@@ -35,7 +36,7 @@
 //             System.out.println("Retire");
 //         }    
 
-//         else if (age < 50 && age > 30) {
+//         else if (age < 60 && age ) {
 //                 System.out.println("Not Elisible");
                 
 //             }
