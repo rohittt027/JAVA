@@ -36,7 +36,7 @@
 //             System.out.println("Retire");
 //         }    
 
-//         else if (age < 60 && age ) {
+//         if (age < 60 && age ) {
 //                 System.out.println("Not Elisible");
                 
 //             }
