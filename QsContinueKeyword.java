@@ -1,21 +1,22 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class QsContinueKeyword {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+// public class QsContinueKeyword {
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
 
-        do {
-            System.out.print("enter your number :");
-            int n = sc.nextInt();
+//         do {
+//             System.out.print("enter your number :");
+//             int n = sc.nextInt();
 
-            if (n % 10 == 0) {
-                continue;
-            }
+//             if (n % 10 == 0) {
+//                 continue;
+//             }
 
-            System.out.println("number was :" + n);
+//             System.out.println("number was :" + n);
 
-        } while (true);
+//         } while (true);
+         
 
-    }
+//     }
 
-}
+// }
