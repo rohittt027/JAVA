@@ -14,22 +14,24 @@
 
 // ----------------------------------------------------------------------------------------------------------
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
-public class FunctionOrMethod {
+// public class FunctionOrMethod {
 
-    public static void calculateSum() {
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        int sum = a + b;
-        System.out.println("Sum is :" + sum);
+//     public static void calculateSum() {
+//         Scanner sc = new Scanner(System.in);
+//         int a = sc.nextInt();
+//         int b = sc.nextInt();
+//         int sum = a + b;
+//         System.out.println("Sum is :" + sum);
 
-        sc.close();
-    }
+//         sc.close();
+//     }
 
-    public static void main(String[] args) {
-        calculateSum();
+//     public static void main(String[] args) {
+//         calculateSum();
 
-    }
-}
+//     }
+// }
+
+
